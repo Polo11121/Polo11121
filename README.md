@@ -46,3 +46,5 @@
 - **I still work in the same company, but for a long time I feel like I'm not developing there, luckily I recently discovered** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **and I immediately liked it**
 - **I have completed several courses such as <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide" target="_blank" rel="noreferrer">Next.js 14 & React - The Complete Guide</a> and <a href="https://www.udemy.com/course/next-js-the-complete-developers-guide" target="_blank" rel="noreferrer">Next JS: The Complete Developer's Guide
 </a>** (<a href="https://github.com/Polo11121/Nextjs-course" target="_blank" rel="noreferrer">Repo 1 with applications</a> | <a href="https://github.com/Polo11121/Nextj13-Booking-App" target="_blank" rel="noreferrer">Repo 2 with application</a>)
+- **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular websites
+**
