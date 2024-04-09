@@ -37,7 +37,7 @@
 
 <h2 align="center">How to reach me </h2>
 
-- <a href="https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/" target="_blank" rel="noreferrer">[![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#)</a>
+- [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/
 - [![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com
                                                                
 
