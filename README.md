@@ -37,4 +37,5 @@
 <h3>2021 - 2023</h3>
 
 - **I still work in the same company, but I try to learn new technologies all the time**
+- **I had a little adventure with** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactnative)](#)
 
