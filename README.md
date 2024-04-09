@@ -8,6 +8,7 @@
 
 - **I started learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react)](#)
 - **I completed <a href="https://www.udemy.com/course/the-ultimate-react-course" target="_blank" rel="noreferrer">The Ultimate React Course: React, Redux & More</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/React-Ultimate-Course-The-Wild-Oasis" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Ultimate-Course-Fast-Pizza-App" target="_blank" rel="noreferrer">Repo 2</a>)
+- **I created a simple memory game**  (<a href="https://github.com/Polo11121/React-Memory-Game-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://memory-game-c0e14.web.app" target="_blank" rel="noreferrer">Website</a>)
 - **I created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazon)](#) (<a href="https://github.com/Polo11121/React-Amazon-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://react-amazon-clone-app.vercel.app/" target="_blank" rel="noreferrer">Website</a>)
 
 <h3>07.2021</h3>
