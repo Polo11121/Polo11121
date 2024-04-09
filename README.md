@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michał</h1>
-<h2 align="center">A passionate frontend developer from Poland</h2
+<h2 align="center">A passionate Frontend Developer from Poland</h2
                                                                
 - 📫 How to reach me **https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6 / michal.jasinski121@gmail.com**
 
@@ -22,4 +22,4 @@
 
  - **I started learning**
    <img src="https://skillicons.dev/icons?i=html,js,css,react" />
- -  **I started an internship as a react developer in a company where I still work today**
+ -  **I started an internship as a Frontend Developer,on which we created a <img src="https://skillicons.dev/icons?i=linkedin" /> Clone**
