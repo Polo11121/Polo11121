@@ -20,8 +20,14 @@
 
 <h3>05.2021</h3>
 
- - **I started learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react)](#)
- - **I completed <a href="https://www.udemy.com/course/the-ultimate-react-course" target="_blank" rel="noreferrer">The Ultimate React Course: React, Redux & More</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/React-Ultimate-Course-The-Wild-Oasis" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Ultimate-Course-Fast-Pizza-App" target="_blank" rel="noreferrer">Repo 2</a>)
- - **I created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazon)](#) (<a href="https://github.com/Polo11121/React-Amazon-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://react-amazon-clone-app.vercel.app/" target="_blank" rel="noreferrer">Website</a>)
- - **I started an internship as a Frontend Developer, on which we created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Website</a>)
- - **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git,github,cypress,jest,testinglibrary,firebase,npm)](#)
+- **I started learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react)](#)
+- **I completed <a href="https://www.udemy.com/course/the-ultimate-react-course" target="_blank" rel="noreferrer">The Ultimate React Course: React, Redux & More</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/React-Ultimate-Course-The-Wild-Oasis" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Ultimate-Course-Fast-Pizza-App" target="_blank" rel="noreferrer">Repo 2</a>)
+- **I created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazon)](#) (<a href="https://github.com/Polo11121/React-Amazon-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://react-amazon-clone-app.vercel.app/" target="_blank" rel="noreferrer">Website</a>)
+
+<h3>07.2021</h3>
+ 
+- **I started an internship as a Frontend Developer, on which we created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Website</a>)
+- **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git,github,cypress,jest,testinglibrary,firebase,npm)](#)
+
+<h3>09.2021</h3>
+- **After the internship, I was hired as a Frontend Junior Developer**
