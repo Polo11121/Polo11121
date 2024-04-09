@@ -35,8 +35,9 @@
 - **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular websites like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#)
 
 
+<h2 align="center">How to reach me </h2>
 
-<h2 align="center">How to reach me [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) /[![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com</h2>
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) /[![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com
                                                                
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Polo11121&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Polo11121" /></p>
