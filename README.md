@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michał</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3
+<h2 align="center">A passionate frontend developer from Poland</h2
                                                                
 - 📫 How to reach me **https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6 / michal.jasinski121@gmail.com**
 
@@ -14,6 +14,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Polo11121&theme=dark" alt="Polo11121" /></p>
 
-<h3 align="center">My Frontend Developer Journey</h3>
+<h2 align="center">My Frontend Developer Journey</h2>
 <div align="center"><img align="center" src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100px">
 </div>
+
+<h3>05.2021</h3>
