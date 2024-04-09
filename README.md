@@ -32,3 +32,5 @@
 <h3>09.2021</h3>
 
 - **After the internship, I was hired as a Frontend Junior Developer**
+- **I joined the project, where I met great people, learned how to work in a team and learned a lot of new technologies**
+
