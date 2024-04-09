@@ -30,4 +30,4 @@
 - **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git,github,cypress,jest,testinglibrary,firebase,npm)](#)
 
 <h3>09.2021</h3>
-- **After the internship, I was hired as a Frontend Junior Developer**
+- **After the internship, I was hired as a Frontend Junior Developer **
