@@ -44,3 +44,5 @@
 <h3>2023 - Now</h3>
 
 - **I still work in the same company, but for a long time I feel like I'm not developing there, luckily I recently discovered** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **and I immediately liked it**
+- **I have completed several courses such as <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide" target="_blank" rel="noreferrer">Next.js 14 & React - The Complete Guide</a> and <a href="https://www.udemy.com/course/next-js-the-complete-developers-guide" target="_blank" rel="noreferrer">Next JS: The Complete Developer's Guide
+</a>**
