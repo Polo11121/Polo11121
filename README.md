@@ -37,7 +37,8 @@
 
 <h2 align="center">How to reach me </h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) /[![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com
+-<a href="https://github.com/Polo11121/Nextjs-course" target="_blank" rel="noreferrer">[![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#)</a>
+- [![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) - michal.jasinski121@gmail.com
                                                                
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Polo11121&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Polo11121" /></p>
