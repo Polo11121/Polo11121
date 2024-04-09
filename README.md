@@ -39,3 +39,6 @@
 - **I still work in the same company, but I try to learn new technologies all the time**
 - **I had a little adventure with** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react)](#) **Native, I even finished a course on Udemy <a href="https://www.udemy.com/course/react-native-the-practical-guide" target="_blank" rel="noreferrer">React Native - The Practical Guide</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/React-Native-Basic-Apps" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Native-Delivery-App" target="_blank" rel="noreferrer">Repo 2</a>)
  - **For the needs of engineering work, I created a fully responsive** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb,express,react,node.js)](#) **fullstack application with websockets and automated tests in** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=cypress)](#) (<a href="https://github.com/Polo11121/React-Social-Networking-App" target="_blank" rel="noreferrer">Front</a> | <a href="https://github.com/Polo11121/Nodejs-Social-Networking-App" target="_blank" rel="noreferrer">Backend</a>)
+- **I still like to code in my free time, preferably in the evenings, listening to some cozy music**
+
+<h3>2023 - Now</h3>
