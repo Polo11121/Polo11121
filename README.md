@@ -37,5 +37,5 @@
 <h3>2021 - 2023</h3>
 
 - **I still work in the same company, but I try to learn new technologies all the time**
-- **I had a little adventure with** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react)](#) **Native, I even finished a course on Udemy <a href="https://www.udemy.com/course/react-native-the-practical-guide" target="_blank" rel="noreferrer">React Native - The Practical Guide</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) 
+- **I had a little adventure with** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react)](#) **Native, I even finished a course on Udemy <a href="https://www.udemy.com/course/react-native-the-practical-guide" target="_blank" rel="noreferrer">React Native - The Practical Guide</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/React-Native-Basic-Apps" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Native-Delivery-App" target="_blank" rel="noreferrer">Repo 2</a>)
 
