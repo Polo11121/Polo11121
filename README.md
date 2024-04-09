@@ -22,4 +22,4 @@
 
  - **I started learning**
    <img src="https://skillicons.dev/icons?i=html,js,css,react" />
- -  **I started an internship as a Frontend Developer,on which we created a <img src="https://skillicons.dev/icons?i=linkedin" /> Clone**
+ -  **I started an internship as a Frontend Developer, on which we created a clone of** <img src="https://skillicons.dev/icons?i=linkedin" />
