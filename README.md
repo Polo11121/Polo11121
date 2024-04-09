@@ -21,7 +21,5 @@
 <h3>05.2021</h3>
 
  - **I started learning**
- - <img src="https://skillicons.dev/icons?i=html,js,css" />
- - **I decided to learn**
- - <img src="https://skillicons.dev/icons?i=react" />
+   <img src="https://skillicons.dev/icons?i=html,js,css,react" />
  -  **I started an internship as a react developer in a company where I still work today**
