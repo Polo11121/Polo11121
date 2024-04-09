@@ -13,3 +13,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Polo11121&show_icons=true&theme=dark&locale=en" alt="Polo11121" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Polo11121&theme=dark" alt="Polo11121" /></p>
+
+<h3 align="center">My Frontend Developer Journey <img src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30px"></h3
