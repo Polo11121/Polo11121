@@ -42,3 +42,5 @@
 - **I still like to code in my free time, preferably in the evenings, listening to some cozy music**
 
 <h3>2023 - Now</h3>
+
+- **I still work in the same company, but for a long time I feel like I'm not developing there, luckily I recently discovered** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js)](#) **and I immediately liked it**
