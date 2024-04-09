@@ -32,9 +32,12 @@
 - **I still work in the same company, but for a long time I feel like I'm not developing there, luckily I recently discovered** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **and I immediately liked it**
 - **I have completed several courses such as <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide" target="_blank" rel="noreferrer">Next.js 14 & React - The Complete Guide</a> and <a href="https://www.udemy.com/course/next-js-the-complete-developers-guide" target="_blank" rel="noreferrer">Next JS: The Complete Developer's Guide
 </a>** (<a href="https://github.com/Polo11121/Nextjs-course" target="_blank" rel="noreferrer">Repo 1 with applications</a> | <a href="https://github.com/Polo11121/Nextj13-Booking-App" target="_blank" rel="noreferrer">Repo 2 with application</a>)
-- **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular websites like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#) 
+- **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular websites like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#)
+
+
+
+<h2 align="center">How to reach me [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) /[![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com</h2>
                                                                
-- 📫 How to reach me **https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6 / michal.jasinski121@gmail.com**
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Polo11121&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Polo11121" /></p>
 
