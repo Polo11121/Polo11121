@@ -22,3 +22,4 @@
 
  - **I started learning** <img src="https://skillicons.dev/icons?i=html,js,css" />
  - **I decided to learn** <img src="https://skillicons.dev/icons?i=react" />
+ -  **I started an internship as a react developer in a company where I still work today**
