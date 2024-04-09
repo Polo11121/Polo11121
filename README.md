@@ -34,3 +34,7 @@
 - **After the internship, I was hired as a Frontend Junior Developer**
 - **I joined the project, where I learned how to work in a team and learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=redux,gitlab,jira)](#)
 
+<h3>2021 - 2023</h3>
+
+- **I still work in the same company, but I try to learn new technologies all the time**
+
