@@ -22,4 +22,5 @@
 
  - **I started learning**
    <img src="https://skillicons.dev/icons?i=html,js,css,react" />
- -  **I started an internship as a Frontend Developer, on which we created a clone of** <img src="https://skillicons.dev/icons?i=linkedin" />
+ -  **I started an internship as a Frontend Developer, on which we created a clone of** <img src="https://skillicons.dev/icons?i=linkedin" /> (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Website</a>)
+ -**During the internship I learned a lot of new technologies**
