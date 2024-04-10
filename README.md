@@ -13,9 +13,9 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=express&theme=light)](#)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js,styledcomponents,redux,gitlab,jira,cypress,jest,testinglibrary,firebase,mui,webpack,prisma)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js,styledcomponents,redux,gitlab,jira,cypress,jest,testinglibrary,firebase,mui,webpack,prisma,mongoose)](#)
 
-<p>MongoDB, Express, Node.js, Styled Components, Redux, GitLab, Jira, Cypress, Jest, Testing Library, Firebase, Material-UI (mui), Webpack, Prisma</p>
+<p>MongoDB, Express, Node.js, Styled Components, Redux, GitLab, Jira, Cypress, Jest, Testing Library, Firebase, Material-UI (mui), Webpack, Prisma, Moongose</p>
 
 <h2 align="center">And This Is My Frontend Developer Journey</h2>
 
