@@ -59,7 +59,7 @@
 
 <h4>Data Fetching</h4>
 
-- React Query + Axios
+- React Query + Axios [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,axios)](#)
 
 <h3>Next.js</h3>
 
