@@ -83,13 +83,17 @@
 
 <h3>Next.js</h3>
 
+<h4>Data Fetching</h4>
+
+- Fetch API + Prisma [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
+
 <h4>Styling</h4>
 
-- Tailwind CSS + CSS Modules + BEM [![My Skills](https://simpleskill.icons.workers.dev/svg?i=sass)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules,bem&theme=light)](#)
+- Tailwind CSS + Shadcn/UI [![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=shadcnui=light)](#)
 
 <h4>Routing</h4>
 
-- React Router [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactrouter)](#)
+- Built-in App router
 
 <h4>State Management</h4>
 
