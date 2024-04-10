@@ -3,7 +3,7 @@
 <h2 align="center">And This Is My Frontend Developer Journey</h2>
 <div align="center"><img align="center" src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100px">
 </div>
-<abbr title="To jest tooltip">Najedź kursorem</abbr>
+[Display text](a "Hover text")
 <h3>05.2021</h3>
 
 - **I started learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react)](#)
