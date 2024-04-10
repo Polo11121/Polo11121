@@ -5,7 +5,7 @@
 
 <h3 align="center">Advanced</h3
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axios&perline=9)](#)<br/>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>                        
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axio,shacn/uis&perline=9)](#)<br/>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>                        
 
 <p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js, Zustand</p>
 
@@ -81,10 +81,23 @@
 
 - Node.js + Express + MongoDB + Moongse [![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=express&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb,mongoose)](#)
 
-
-
-
 <h3>Next.js</h3>
+
+<h4>Styling</h4>
+
+- Tailwind CSS + CSS Modules + BEM [![My Skills](https://simpleskill.icons.workers.dev/svg?i=sass)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules,bem&theme=light)](#)
+
+<h4>Routing</h4>
+
+- React Router [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactrouter)](#)
+
+<h4>State Management</h4>
+
+- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>
+
+<h4>Forms Management</h4>
+
+- React Hook Form + Zod [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reacthookform,zod)](#)
 
 <h2 align="center">How To Reach Me</h2>
 
