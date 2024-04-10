@@ -12,7 +12,7 @@
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)
 
-<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.j</p>
+<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js</p>
 
 <h3 align="center">Basic Skills</h3>
 
