@@ -71,7 +71,12 @@
 
 <h4>State Management</h4>
 
-- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>   
+- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>
+
+<h4>Forms Management</h4>
+
+- React Hook Form + Zod [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reacthookform,zod)](#)
+
 
 
 
