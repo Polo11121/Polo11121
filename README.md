@@ -53,7 +53,7 @@
 - **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular Applications like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#) (<a href="https://github.com/Polo11121/Next.js-Discord-Clone-App" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/Next.js-Twitch-Clone-App" target="_blank" rel="noreferrer">Repo 2</a> | <a href="https://next-js-discord-clone-app.vercel.app" target="_blank" rel="noreferrer">Application 1</a> | <a href="https://nextjs14-twitch-clone-app.vercel.app/" target="_blank" rel="noreferrer">Application 2</a>)
 - **Currently, I am still learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **from this course** <a href="https://bytegrad.com/courses/professional-react-nextjs" target="_blank" rel="noreferrer"> Professional React & Next.js</a> **and I am working on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=duolingo)](#) **Clone** (<a href="https://github.com/Polo11121/Next.js-Duolingo-Clone-App" target="_blank" rel="noreferrer">Repo</a>)
 
-<h2 align="center">MY Favorite Tech Stacks</h2>
+<h2 align="center">My Favorite Tech Stacks</h2>
 
 <h3>React</h3>
 
