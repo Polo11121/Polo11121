@@ -61,6 +61,10 @@
 
 - React Query + Axios [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,axios)](#)
 
+<h4>Styling</h4>
+
+- SASS + CSS Modules + BEM [![My Skills](https://simpleskill.icons.workers.dev/svg?i=sass)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules,bem&theme=light)](#)
+
 <h3>Next.js</h3>
 
 <h2 align="center">How To Reach Me</h2>
