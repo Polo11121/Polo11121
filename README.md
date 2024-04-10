@@ -5,7 +5,7 @@
 
 <h3 align="center">Advanced Skills</h3
                                   
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,zod,git,npm,yarn,sass,prettier,eslint,axios)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axios)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)
