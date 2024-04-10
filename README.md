@@ -4,8 +4,9 @@
 <h2 align="center">My skills</h2>
 
 <h3 align="center">Advanced Skills</h3>
+
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,git,github,npm,yarn,sass,prettier,eslint,axios,bem,cssmodules,tailwindcss,vite,next.js)](#)
-<p> [![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#) </p>
+
 
 
 <h3 align="center">Basic Skills</h3>
