@@ -57,6 +57,10 @@
 
 <h3>React</h3>
 
+<h4>Data Fetching</h4>
+
+- React Query + Axios
+
 <h3>Next.js</h3>
 
 <h2 align="center">How To Reach Me</h2>
