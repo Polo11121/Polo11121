@@ -5,7 +5,6 @@
 
 <h3 align="center">Advanced Skills</h3
 
-
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axios&perline=9)](#)<br/>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>                        
 
 <p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js, Zustand</p>
@@ -20,8 +19,7 @@
 
 <h2 align="center">And This Is My Frontend Developer Journey</h2>
 
-<div align="center"><img align="center" src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100px">
-</div>
+<div align="center"><img align="center" src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100px"></div>
 
 <h3>05.2021</h3>
 
@@ -55,6 +53,7 @@
 - **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular websites like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#)
 - **Currently, I am still learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **but I am open to changes and new challenges**
 
+<h2 align="center">MY Favorite Tech Stacks</h2>
 
 <h2 align="center">How To Reach Me</h2>
 
