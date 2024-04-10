@@ -79,7 +79,7 @@
 
 <h4>Backend</h4>
 
-- Node.js + Express + MongoDB + Moongse [![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=express=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb,mongoose)](#)
+- Node.js + Express + MongoDB + Moongse [![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=express&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb,mongoose)](#)
 
 
 
