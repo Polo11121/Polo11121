@@ -3,9 +3,12 @@
 
 <h2 align="center">My skills</h2>
 
-<h3 align="center">Advanced Skills</h3>
-<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, Git, GitHub, npm, yarn, Sass, Prettier, ESLint, Axios, BEM, CSS Modules, Tailwind CSS, Vite, Next.js</p>
+<h3 align="center">Advanced Skills</h3
+                                  
+
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,git,github,npm,yarn,sass,prettier,eslint,axios,bem,cssmodules,tailwindcss,vite,next.js)](#)
+
+<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, Git, GitHub, npm, yarn, Sass, Prettier, ESLint, Axios, BEM, CSS Modules, Tailwind CSS, Vite, Next.js</p>
 
 
 
