@@ -85,7 +85,7 @@
 
 <h4>Data Fetching</h4>
 
-- Fetch API + Prisma [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
+- Fetch API / Prisma + Server Components [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
 
 <h4>Styling</h4>
 
@@ -102,6 +102,10 @@
 <h4>Forms Management</h4>
 
 - React Hook Form + Zod [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reacthookform,zod)](#)
+  
+<h4>Backend</h4>
+
+-  Prisma [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
 
 <h2 align="center">How To Reach Me</h2>
 
