@@ -65,6 +65,16 @@
 
 - SASS + CSS Modules + BEM [![My Skills](https://simpleskill.icons.workers.dev/svg?i=sass)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules,bem&theme=light)](#)
 
+<h4>Routing</h4>
+
+- React Router [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactrouter)](#)
+
+<h4>State Management</h4>
+
+- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>   
+
+
+
 <h3>Next.js</h3>
 
 <h2 align="center">How To Reach Me</h2>
