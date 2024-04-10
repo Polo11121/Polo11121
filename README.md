@@ -4,10 +4,16 @@
 <h2 align="center">My skills</h2>
 
 <h3 align="center">Advanced Skills</h3
-
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axios&perline=8)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="40" height="40"/>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)
+                                    
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint,axios&perline=8)]
+(#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)]
+(#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)]
+(#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)]
+(#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)]
+(#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)
+<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="40" height="40"/>
                               
-<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js</p>
+<p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js, Zustand</p>
 
 <h3 align="center">Basic Skills</h3>
 
