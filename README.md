@@ -5,7 +5,7 @@
 
 <h3 align="center">Advanced</h3
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint)](#)<br/><div>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=axios)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=shadcnui&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/> </div>                      
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint)](#)<br/><div>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=axios)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=shadcnui&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/> </div>  
 
 <p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js, Shadcn/UI, Zustand</p>
 
@@ -25,13 +25,13 @@
 
 - **I started learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react)](#)
 - **I completed <a href="https://www.udemy.com/course/the-ultimate-react-course" target="_blank" rel="noreferrer">The Ultimate React Course: React, Redux & More</a> on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=udemy)](#) (<a href="https://github.com/Polo11121/The-Ultimate-React-Course-2024-Udemy-Course" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/React-Ultimate-Course-The-Wild-Oasis" target="_blank" rel="noreferrer">Repo 2</a> | <a href="https://github.com/Polo11121/React-Ultimate-Course-Fast-Pizza-App" target="_blank" rel="noreferrer">Repo 3</a> | <a href="https://the-ultimate-react-course-2024-the-wild-oasis-app.vercel.app/" target="_blank" rel="noreferrer">Application 2</a> | <a href="https://the-ultimate-react-course-2024-fast-pizza-app.vercel.app/" target="_blank" rel="noreferrer">Application 3</a>)
-- **I created a simple memory game**  (<a href="https://github.com/Polo11121/React-Memory-Game-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://memory-game-c0e14.web.app" target="_blank" rel="noreferrer">Application</a>)
-- **I created a live chat application**<p> </p>(<a href="https://github.com/Polo11121/React-Live-Chat-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://memory-game-c0e14.web.app" target="_blank" rel="noreferrer">Application</a>)
-- **I created a clone of**<p> </p>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazon)](#) (<a href="https://github.com/Polo11121/React-Amazon-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://live-chat-app-6ea25.web.app/" target="_blank" rel="noreferrer">Application</a>)
+- **I created a simple memory game** (<a href="https://github.com/Polo11121/React-Memory-Game-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://memory-game-c0e14.web.app" target="_blank" rel="noreferrer">Application</a>)
+- **I created a live chat application** (<a href="https://github.com/Polo11121/React-Live-Chat-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://memory-game-c0e14.web.app" target="_blank" rel="noreferrer">Application</a>)
+- **I created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazon)](#) (<a href="https://github.com/Polo11121/React-Amazon-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://live-chat-app-6ea25.web.app/" target="_blank" rel="noreferrer">Application</a>)
 
 <h3>07.2021</h3>
  
-- **I started an internship as a Frontend Developer, on which we created a clone of**  [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Application</a>)
+- **I started an internship as a Frontend Developer, on which we created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Application</a>)
 - **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cypress,jest,testinglibrary,firebase,npm,yarn,sass,prettier,eslint,mui,axios,webpack)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)
 
 <h3>09.2021</h3>
@@ -103,16 +103,16 @@
 <h4>Forms Management</h4>
 
 - React Hook Form + Zod [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reacthookform,zod)](#)
-  
+ 
 <h4>Backend</h4>
 
--  Prisma [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
+- Prisma [![My Skills](https://simpleskill.icons.workers.dev/svg?i=prisma&theme=light)](#)
 
 <h2 align="center">How To Reach Me</h2>
 
 - [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/
 - [![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com
-                                                               
+    
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Polo11121&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Polo11121" /></p>
 
