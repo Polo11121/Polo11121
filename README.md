@@ -1,6 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michał</h1>
 
+
+<h2 align="center">My skills</h2>
+
+<h3 align="center">Advanced Skills</h3>
+
+<h3 align="center">Basic Skills</h3>
+
 <h2 align="center">And This Is My Frontend Developer Journey</h2>
+
 <div align="center"><img align="center" src="https://media4.giphy.com/media/WnFDR3vdJniy3SzZvR/giphy.gif?cid=6c09b95277p63f57ksmt0nk2436jeqsrtofeml5snnyi7alb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100px">
 </div>
 
