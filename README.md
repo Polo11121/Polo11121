@@ -14,7 +14,7 @@
 <h3>07.2021</h3>
  
 - **I started an internship as a Frontend Developer, on which we created a clone of** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) (<a href="https://github.com/Polo11121/React-Linkedin-Clone-App" target="_blank" rel="noreferrer">Repo</a> | <a href="https://billennium-frontend-interns.github.io/linkedin_clone_project/#/" target="_blank" rel="noreferrer">Website</a>)
-- **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cypress,jest,testinglibrary,firebase,npm,sass)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)
+- **During the internship I learned a lot of new technologies** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactquery,reactrouter,git)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cypress,jest,testinglibrary,firebase,npm,sass,axios)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)
 
 <h3>09.2021</h3>
 
