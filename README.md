@@ -55,6 +55,10 @@
 
 <h2 align="center">MY Favorite Tech Stacks</h2>
 
+<h3>React</h3>
+
+<h3>Next.js</h3>
+
 <h2 align="center">How To Reach Me</h2>
 
 - [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/
