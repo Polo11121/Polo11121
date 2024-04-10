@@ -77,6 +77,10 @@
 
 - React Hook Form + Zod [![My Skills](https://simpleskill.icons.workers.dev/svg?i=reacthookform,zod)](#)
 
+<h4>Backend</h4>
+
+- Node.js + Express + MongoDB + Moongse [![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js,express,mongodb,mongoose)](#)
+
 
 
 
