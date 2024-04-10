@@ -14,7 +14,7 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb)](#)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=express&theme=light)](#)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js,styledcomponents,redux,gitlab,jira,cypress,jest,testinglibrary,firebase,mui,webpack&perline=4)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=node.js,styledcomponents,redux,gitlab,jira,cypress,jest,testinglibrary,firebase,mui,webpack)](#)
 
 <p>MongoDB, Express, Node.js, Styled Components, Redux, GitLab, Jira, Cypress, Jest, Testing Library, Firebase, Material-UI (mui), Webpack</p>
 
