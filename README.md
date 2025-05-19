@@ -4,7 +4,7 @@
 
 <h3 align="center">Advanced</h3
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint)](#)<br/><div>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=axios)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=shadcnui&theme=light)](#)<img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/> </div>  
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,javascript,typescript,css3,react,reactquery,reactrouter,reacthookform,zod,git,npm,yarn,sass,prettier,eslint)](#)<br/><div>[![My Skills](https://simpleskill.icons.workers.dev/svg?i=axios)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=github&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=bem&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cssmodules&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=tailwindcss,vite)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=shadcnui&theme=light)](#)  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" alt="zustand" width="50" height="50" /> </div>  
 
 <p>HTML5, JavaScript, TypeScript, CSS3, React, React Query, React Router, React Hook Form, Zod, Git, npm, yarn, Sass, Prettier, ESLint, Axios, GitHub, BEM, CSS Modules, Tailwind CSS, Vite, Next.js, Shadcn/UI, Zustand</p>
 
@@ -72,7 +72,7 @@
 
 <h4>State Management</h4>
 
-- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>
+- Zustand <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" alt="zustand" width="50" height="50" />
 
 <h4>Forms Management</h4>
 
