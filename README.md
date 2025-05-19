@@ -98,7 +98,7 @@
 
 <h4>State Management</h4>
 
-- Zustand <img src="https://img.stackshare.io/service/11559/zustand.png" alt="zustand" width="50" height="50"/>
+- Zustand <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" alt="zustand" width="50" height="50" />
 
 <h4>Forms Management</h4>
 
