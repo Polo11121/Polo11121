@@ -110,7 +110,7 @@
 
 <h2 align="center">How To Reach Me</h2>
 
-- [![My Skills](https://simpleskill.icons.workers.dev/svg?i=linkedin)](#) https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="zustand" width="50" height="50" /> https://www.linkedin.com/in/micha%C5%82-jasi%C5%84ski-73b0692b6/
 - [![My Skills](https://simpleskill.icons.workers.dev/svg?i=gmail)](#) michal.jasinski121@gmail.com
     
 
