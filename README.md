@@ -45,7 +45,7 @@
  - **For the needs of engineering work, I created a fully responsive** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=mongodb)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=express&theme=light)](#)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js)](#) **fullstack application with websockets and automated tests in** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=cypress)](#) (<a href="https://github.com/Polo11121/React-Social-Networking-App" target="_blank" rel="noreferrer">Frontend</a> | <a href="https://github.com/Polo11121/Nodejs-Social-Networking-App" target="_blank" rel="noreferrer">Backend</a> | <a href="https://date-app-praca-inzynierska.netlify.app/" target="_blank" rel="noreferrer">Application</a>)
 - **I still like to code in my free time, preferably in the evenings, listening to some cozy music**
 
-<h3>2023 - Now</h3>
+<h3>2023 - 2025</h3>
 
 - **I still work in the same company, but for a long time I feel like I'm not developing there, luckily I recently discovered** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **and I immediately liked it**
 - **I have completed several courses such as <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide" target="_blank" rel="noreferrer">Next.js 14 & React - The Complete Guide</a> and <a href="https://www.udemy.com/course/next-js-the-complete-developers-guide" target="_blank" rel="noreferrer">Next JS: The Complete Developer's Guide
@@ -53,6 +53,11 @@
 - **I have completed course <a href="https://bytegrad.com/courses/professional-react-nextjs" target="_blank" rel="noreferrer">Professional React & Next.js</a>** (<a href="https://github.com/Polo11121/Next.js-Pet-Soft-App" target="_blank" rel="noreferrer">Repo 1 with application</a> | <a href="https://github.com/Polo11121/Next.js-Evento-App" target="_blank" rel="noreferrer">Repo 2 with application</a>)
 - **Using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **, I also created clones of various popular Applications like**[![My Skills](https://simpleskill.icons.workers.dev/svg?i=discord,twitch)](#) (<a href="https://github.com/Polo11121/Next.js-Discord-Clone-App" target="_blank" rel="noreferrer">Repo 1</a> | <a href="https://github.com/Polo11121/Next.js-Twitch-Clone-App" target="_blank" rel="noreferrer">Repo 2</a> | <a href="https://next-js-discord-clone-app.vercel.app" target="_blank" rel="noreferrer">Application 1</a> | <a href="https://nextjs14-twitch-clone-app.vercel.app/" target="_blank" rel="noreferrer">Application 2</a>)
 - **Currently, I am still learning** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=next.js&theme=light)](#) **from this course** <a href="https://bytegrad.com/courses/professional-react-nextjs" target="_blank" rel="noreferrer"> Professional React & Next.js</a> **and I am working on** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=duolingo)](#) **Clone** (<a href="https://github.com/Polo11121/Next.js-Duolingo-Clone-App" target="_blank" rel="noreferrer">Repo</a>)
+
+<h3>2025 - Now</h3>
+
+* **I still work in the same company, but I recently joined a new project, where I fully implemented the frontend for a medical ChatGPT application called <a href="https://kidney.com" target="_blank" rel="noreferrer">Kidney.com</a> using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,zustand,tailwindcss,reactquery)](#) **— the app includes features like chat, file uploads, citations, consent modals, and internationalization, and helped me grow in accessibility, SEO, and responsive design**
+
 
 <h2 align="center">My Favorite Tech Stacks</h2>
 
