@@ -56,7 +56,7 @@
 
 <h3>2025 - Now</h3>
 
-* **I still work in the same company, but I recently joined a new project, where I fully implemented the frontend for a medical ChatGPT application called <a href="https://kidney.com" target="_blank" rel="noreferrer">Kidney.com</a> using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,zustand,tailwindcss,reactquery)](#) **— the app includes features like chat, file uploads, citations, consent modals, and internationalization, and helped me grow in accessibility, SEO, and responsive design**
+* **I still work in the same company, but I recently joined a new project, where I fully implemented the frontend for a medical ChatGPT application called <a href="https://kidney.com" target="_blank" rel="noreferrer">Kidney.com</a> using** [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,tailwindcss,reactquery)](#) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" alt="zustand" width="50" height="50" /> **— the app includes features like chat, file uploads, citations, consent modals, and internationalization, and helped me grow in accessibility, SEO, and responsive design**
 
 
 <h2 align="center">My Favorite Tech Stacks</h2>
